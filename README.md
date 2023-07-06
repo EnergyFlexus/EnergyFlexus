@@ -4,7 +4,7 @@
 
 # ~~My Skills~~
 
-![](https://skillicons.dev/icons?i=cpp,cs)]
+![](https://skillicons.dev/icons?i=cpp,cs)
 
 ![](https://skillicons.dev/icons?i=git,docker,cmake,github)
 
