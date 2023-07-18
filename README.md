@@ -13,7 +13,7 @@
 # My actual skills
 
 - `git push --force into master` ✔️
-- `500 code errors with DB reset(local server)` ✔️
-- `500 code errors with DB reset(remote server)` ✔️
+- `500 code errors with DB reset` ✔️
 - `how to close vim` ✔️
+- `non-working code almost in prod` ✔️
 - `rm -rf /bin production` ❌
