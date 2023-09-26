@@ -1,7 +1,3 @@
-# My streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EnergyFlexus&count_private=true&theme=nord&border_radius=20)
-
 # ~~My skills~~
 
 ![](https://skillicons.dev/icons?i=cpp,cs)
