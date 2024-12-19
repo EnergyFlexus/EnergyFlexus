@@ -12,4 +12,5 @@
 - `500 code errors with DB reset` ✔️
 - `how to close vim` ✔️
 - `non-working code almost in prod` ✔️
+- `BSOD during development` ✔️
 - `rm -rf /bin production` ❌
